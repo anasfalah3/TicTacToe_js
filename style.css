@@ -1,0 +1,33 @@
+.game{
+      
+      width: 510px;
+      text-align: center;
+      font-family: system-ui;
+      color: white;
+      margin: auto;
+      font-weight: 1000;
+}
+.title{
+      background:  #f25;
+      padding: 10px 0;
+      margin: 10px 0;
+
+}
+span{
+      color: #fa0;
+
+}
+
+.square{
+      width: 160px;
+      height: 160px;
+      background: #f25;
+      margin: 4px;
+      float: left;
+      font-size: 100px;
+
+}
+.square:hover{
+      background: black;
+      cursor: pointer;
+}
